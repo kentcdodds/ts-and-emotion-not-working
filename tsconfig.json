@@ -1,0 +1,8 @@
+{
+  "types": ["node", "@emotion/core"],
+  "compilerOptions": {
+    "noEmit": true,
+    "jsx": "react"
+  },
+  "include": ["example.tsx"]
+}

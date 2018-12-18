@@ -1,0 +1,19 @@
+{
+  "name": "ts-and-emotion-not-working",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Kent C. Dodds <kent@doddsfamily.us> (http://kentcdodds.com/)",
+  "license": "MIT",
+  "dependencies": {
+    "@emotion/core": "^10.0.5",
+    "@emotion/styled": "^10.0.5",
+    "@types/react": "^16.7.17",
+    "react": "^16.6.3",
+    "typescript": "^3.2.2"
+  }
+}
